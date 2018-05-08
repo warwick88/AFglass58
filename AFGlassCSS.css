@@ -1,0 +1,180 @@
+
+
+.jumbo3 {
+	background-image: url('MobileGlass2.jpeg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height:500px;
+	margin-left: 40px;
+	margin-right: 40px;
+
+}
+
+
+.jumbo1 {
+	background-image: url('Glassrepair2.jpg');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	height: 500px;
+
+}
+
+
+.footer {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  background-color: #2C3E50;
+  color: #fff;
+}
+
+.copyright {
+  background-color: #1a252f;
+}
+
+.jumbo2 {
+	margin-top: 0px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-bottom: 10px;
+	background-color: white;
+}
+
+
+/* .thumbnail:hover {
+	height: 1.5rem;
+	width: 1.5rem;
+} */
+
+.zoom:hover,  
+.zoom:active,   
+.zoom:focus {
+/**adjust scale to desired size, 
+add browser prefixes**/
+-ms-transform: scale(1.2);    
+-moz-transform: scale(1.2);  
+-webkit-transform: scale(1.2);  
+-o-transform: scale(1.2);  
+transform: scale(1.2);    
+position:relative;      
+z-index:100;  
+margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+body, html {
+	font-family: 'Vollkorn', serif;
+	position: relative;
+}
+
+
+
+.testimate {
+	text-shadow: .15em .15em .35em #888;
+}
+
+
+@media (max-width: 768px) {
+	.navbar {
+		position: fixed;
+		right: 0;
+		left: 0;   
+		border-radius: 0;
+		top: 0;
+	}
+	.jumbotron {
+		margin-top: 60px;
+	}
+	.jumbo1 {
+		height: 200px;
+	}
+	.jumbo3 {
+		height: 200px;
+	}
+}
+
+#googleMap {
+	padding: 0px;
+	margin: 0px;
+	
+}
+
+
+.specialG1 {
+	border: 1px solid black;
+	box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	
+}
+
+
+/* .fa-phone {
+	color: red;
+}
+
+.fa-envelope {
+	color: red;
+} */
+
+
+/* .banner1 {
+	background-image: url('brokenglass2.jpg');
+	object-fit: fill;
+	background-repeat: no-repeat;
+
+} */
+
+.brokenglass {
+/* 
+     background-image: url("brokenglass2.jpg");
+     min-height: 15vh;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+	 border-radius: 25px;
+	 padding: 50px;
+	 box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+	 margin-top: 20px;
+		
+} */
+
+
+
+
+
+
+
+
+
+/* @media (max-width: 1200px) {
+	body {
+		margin-top: 50px;
+	}
+	  .navbar{
+		position: fixed;
+		right: 0;
+		left: 0;   
+		border-radius: 0;
+		top: 0;
+	  }      
+	} */
+	
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
